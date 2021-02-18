@@ -1,0 +1,58 @@
+.container1{
+    position: absolute;
+    height: 250px;
+    width:98%;
+    background-color: skyblue;
+    left: 20px;
+    
+    
+}
+.container1 h1{
+    position: absolute;
+    font-family: cursive;
+    color: white;
+    font-size: 500%;
+    left: 40px;
+}
+.container1 p{
+    position: absolute;
+    left: 850px;
+    font-family: cursive;
+    color: white;
+    font-size: 125%;
+}
+.bottom{
+    position: absolute;
+    height: 200px;
+    width:98%;
+    background-color:white;
+    top: 250px;;
+    left:20px;
+
+}
+.bottom p{
+    position: absolute;
+    color:black;
+    left: 10px;
+}
+footer{
+    height: 200px;
+    background-color:skyblue;
+    width:200%;
+    position: relative;
+    top: 200px;
+    left: -4%;
+    
+    text-align:right;
+    border: 2px solid rgba(255, 0, 0, 0);
+}
+footer p{
+    position: static;
+    left:80%
+    
+}
+h2{
+    color: black;
+    font-family: cursive;
+    
+}
